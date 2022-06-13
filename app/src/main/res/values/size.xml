@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--TEXT-->
+    <dimen name="main_title_text">24sp</dimen>
+    <dimen name="main_resolve_text">20sp</dimen>
+    <dimen name="main_plainText_info_text">18sp</dimen>
+    <dimen name="main_plainText_result_text">32sp</dimen>
+    <dimen name="main_spinner_text">14sp</dimen>
+    <dimen name="main_spinner_info_band_text">14sp</dimen>
+    <!--Background-->
+    <dimen name="main_title_height">60dp</dimen>
+    <dimen name="main_resolve_height">40dp</dimen>
+    <dimen name="main_plainText_info_height">30dp</dimen>
+    <dimen name="main_plainText_result_height">40dp</dimen>
+    <dimen name="main_spinner_height">48dp</dimen>
+    <dimen name="main_default_spinner_info_band_height">20dp</dimen>
+</resources>

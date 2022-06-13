@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Código de Resistencia</string>
+    <string name="main_title">Tu-code-Resistencia</string>
+    <string name="main_resolve_button">Resolver</string>
+    <string name="main_result_info">Resultado</string>
+    <string name="main_default_band1">Banda 1</string>
+    <string name="main_default_band2">Banda 2</string>
+    <string name="main_default_band3">Banda 3</string>
+    <string name="main_default_band4">Banda 4</string>
+    <string-array name="main_color_band_1_2">
+        <item>Negro</item>
+        <item>Café</item>
+        <item>Rojo</item>
+        <item>Naranja</item>
+        <item>Amarillo</item>
+        <item>Verde</item>
+        <item>Azul</item>
+        <item>Violeta</item>
+        <item>Gris</item>
+        <item>Blanco</item>
+    </string-array>
+    <string-array name="main_color_multiplier">
+        <!--Ω-->
+        <item>Negro</item>
+        <item>Café</item>
+        <item>Rojo</item>
+        <item>Naranja</item>
+        <item>Amarillo</item>
+        <item>Verde</item>
+        <item>Azul</item>
+        <item>Violeta</item>
+        <item>Gris</item>
+        <item>Blanco</item>
+        <item>Dorado</item>
+        <item>Plateado</item>
+    </string-array>
+    <string-array name="main_color_tolerance">
+        <item>Café</item>
+        <item>Rojo</item>
+        <item>Verde</item>
+        <item>Azul</item>
+        <item>Violeta</item>
+        <item>Gris</item>
+        <item>Dorado</item>
+        <item>Plateado</item>
+    </string-array>
+</resources>

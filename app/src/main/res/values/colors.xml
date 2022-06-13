@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--TEXT-->
+    <color name="main_title_text">@color/Crimson</color>
+    <color name="main_resolve_text">@color/White</color>
+    <color name="main_plainText_info_text">@color/Fuchsia</color>
+    <color name="main_plainText_result_text">@color/Fuchsia</color>
+    <color name="main_spinner_text">@color/Blue</color>
+    <color name="main_default_spinner_info_band_text">#DD2C00</color>
+    <!--Background-->
+    <color name="main_Bground">@color/Snow</color>
+    <color name="main_default_spinner_info_band_Layout">@color/Gray</color>
+    <color name="main_default_spinner_info_band_Bground">@color/White</color>
+
+    <!--EXTRAS-->
+    <color name="main_border">@color/Black</color>
+</resources>
