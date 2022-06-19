@@ -14,4 +14,6 @@
 
     <!--EXTRAS-->
     <color name="main_border">@color/Black</color>
+    <color name="splash_bground">@color/Yellow</color>
+    <color name="splash_image_bground">@color/DarkOrange</color>
 </resources>

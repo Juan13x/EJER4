@@ -44,4 +44,6 @@
         <item>Dorado</item>
         <item>Plateado</item>
     </string-array>
+
+    <string name="splash_image_description">Image</string>
 </resources>
